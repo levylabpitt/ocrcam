@@ -1,0 +1,8 @@
+venv/
+.env
+__pycache__/
+*.pyc
+logs/*.jpg
+logs/*.png
+logs/*.csv
+.roi.json
